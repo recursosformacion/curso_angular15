@@ -120,5 +120,8 @@
         }
       }
     }},
-  "defaultProject": "angular-paso1"
+  "defaultProject": "angular-paso1",
+  "cli": {
+    "analytics": "81f020ac-4bf4-4a6d-b8d2-05261962c358"
+  }
 }
