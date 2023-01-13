@@ -7,9 +7,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class PipesComponent implements OnInit {
 
-  private numerico: number = 12345.6;
-  private cadena: string = "Esto es cadena";
-  private fecha : Date = new Date();
+  public numerico: number = 12345.6;
+  public cadena: string = "Esto es cadena";
+  public fecha : Date = new Date();
 
   constructor() { }
 
